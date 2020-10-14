@@ -2,7 +2,7 @@
 Simple python game 
 
 ## Introduction
-This is a simple python game where user moves a character towards an objective whiles trying to avoid enemies, if user reaches objective they win, if enemy touches them they lose
+This is a simple python game where the user moves a character towards an objective whiles trying to avoid enemies, if the user reaches objective they win, if enemy touches them they lose
 
 ## Launch
 python 3.8
