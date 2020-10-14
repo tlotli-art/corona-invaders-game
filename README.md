@@ -6,5 +6,7 @@ This is a simple python game where user moves a character towards an objective w
 
 ## Launch
 python 3.8
+
 pip 20.2.1
+
 pygame 1.9.6
